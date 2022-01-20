@@ -1,0 +1,116 @@
+body{
+    font-family: 'Red Hat Display', sem serifa;
+    background-color: hsl(225, 51%, 86%);
+    text-align: center;
+}
+
+.caixa{
+    width: 320px;
+    height: 560px;
+    border-radius: 18px;
+    background: #fcfcfc ;
+	margin:center;
+    position: absolute;
+    top: 10px;
+    left: 550px;
+}
+
+.caixa:hover{
+    box-shadow: 0 0 2em #142238;
+}
+
+.imgPrincipal{
+    width: 320px;
+    height: 180px;
+    border-radius: 18px 18px 0 0;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.texto{
+    color: #ffffff;
+}
+
+.centro{
+    text-align: center;
+    color:hsl(225, 20%, 66%);
+    font-size: 18px;
+}
+
+.musica{
+    width: 80%;
+    height: 15%;
+    color: black;
+    background: #f3eeee73;
+    position: absolute;
+    border-radius: 12px;
+    text-align: center;
+    margin: 20px 33px;
+}
+
+.iconMusica{
+    float: left;
+    padding: 15px;
+}
+
+.preco{
+    float:inline-start;
+    font-weight: bold;
+    text-align: left;
+}
+
+.valor{
+    text-align: left;
+    padding-top: 1px;
+}
+
+.canto{
+    text-align: right;
+    margin: -49px 15px ;
+    font-size: 13px;
+    
+}
+
+.botao{
+    width: 70%;
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+    background: hsl(245, 75%, 52%);
+    margin: 140px 3px 1px 10px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px rgb(29, 28, 28);
+}
+
+.cancel{
+    font-size: 12px;
+}
+.rod{
+    text-align: center;
+    color:hsl(245, 75%, 52%);
+    font-size: 12px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+ }
+ 
